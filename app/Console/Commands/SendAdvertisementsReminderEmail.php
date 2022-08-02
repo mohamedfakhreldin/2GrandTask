@@ -4,7 +4,6 @@ namespace App\Console\Commands;
 
 use App\Models\User;
 use App\Mail\ReminderMail;
-use App\Models\Advertisement;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Mail;
 
